@@ -76,7 +76,7 @@ denise-portfolio/
 
 ## Contact
 
-**Denise**
+**Denise Lazo**
 
 ---
 

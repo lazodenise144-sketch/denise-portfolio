@@ -217,6 +217,21 @@
                                 'desc' => 'This is one of my first projects, a simple VB.NET application designed to help users manage and store records. It includes an easy-to-use interface, data validation, and basic CRUD operations for adding, viewing, updating, and deleting information.',
                                 'tech' => ['VB.Net'],
                                 'gradient' => 'from-blue-500 to-cyan-400',
+                                'image' => 'per.png',
+                            ],
+                            [
+                                'title' => '2. Wireframe',
+                                'desc' => 'A wireframe project created using PowerPoint, showcasing layout designs and UI/UX concepts for web and application interfaces. It demonstrates planning and visual structuring before development.',
+                                'tech' => ['Powerpoint'],
+                                'gradient' => 'from-blue-500 to-cyan-400',
+                                'image' => 'pwer.png',
+                            ],
+                             [
+                                'title' => '3. Grade Computation System',
+                                'desc' => 'A VB.NET application that automates grade computation for students. It calculates grades based on input scores, handles weighted averages, and displays results accurately.',
+                                'tech' => ['VB.Net'],
+                                'gradient' => 'from-blue-500 to-cyan-400',
+                                'image' => 'ezz.png',
                             ],
 
                         ];
@@ -225,7 +240,7 @@
                         <article class="reveal group glass rounded-2xl overflow-hidden hover:-translate-y-2 hover:border-cool-400/50 transition-all duration-300 hover:shadow-[0_20px_60px_rgba(37,99,235,0.25)] max-w-xs">
                             <div class="h-44 bg-gradient-to-br {{ $project['gradient'] }} flex items-center justify-center relative w-full max-w-sm">
                                 <div class="absolute inset-0 opacity-20" style="background-image: radial-gradient(rgba(255,255,255,0.6) 1px, transparent 1px); background-size: 18px 18px;"></div>
-                                <span class="text-5xl opacity-90 group-hover:scale-110 transition-transform duration-300"><img src="{{ asset('images/per.png') }}"></span>
+                                <span class="text-5xl opacity-90 group-hover:scale-110 transition-transform duration-300"></span>
                             </div>
                             <div class="p-6">
                                 <h3 class="text-xl font-bold text-white mb-2">{{ $project['title'] }}</h3>

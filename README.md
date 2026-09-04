@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Blade-Templates-#0000FF?style=flat-square" alt="Blade">
+  <img src="https://img.shields.io/badge/Blade-Templates-3B82F6?style=flat-square" alt="Blade">
 </p>
 
 ---

@@ -1,5 +1,9 @@
 <p align="center">
+<<<<<<< HEAD
   <img src="public/image/profile.png" alt="Denise" width="120" style="border-radius: 50%;">
+=======
+  <img src="public/images/dinis.png" alt="Denise" width="120" style="border-radius: 50%;">
+>>>>>>> 1a61c86f7e4728aa717e1bee7c297c828d100f5e
 </p>
 
 <h1 align="center">Denise</h1>
@@ -76,10 +80,18 @@ denise-portfolio/
 
 ## Contact
 
+<<<<<<< HEAD
 **Denise**
+=======
+**Denise Lazo**
+>>>>>>> 1a61c86f7e4728aa717e1bee7c297c828d100f5e
 
 ---
 
 <p align="center">
+<<<<<<< HEAD
   Made with 💗 by Denise
+=======
+  Made with by Denise
+>>>>>>> 1a61c86f7e4728aa717e1bee7c297c828d100f5e
 </p>

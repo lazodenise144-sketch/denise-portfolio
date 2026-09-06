@@ -230,10 +230,7 @@
                                 'desc' => 'A VB.NET application that automates grade computation for students. It calculates grades based on input scores, handles weighted averages, and displays results accurately.',
                                 'tech' => ['VB.Net'],
                                 'gradient' => 'from-green-500 to-emerald-400',
-=======
-                                'tech' => ['Powerpoint'],
-                                'gradient' => 'from-blue-500 to-cyan-400',
-                                'image' => 'pwer.png',
+
                             ],
                              [
                                 'title' => '3. Grade Computation System',

@@ -220,7 +220,7 @@
                             [
                                 'title' => '2. Wireframe',
                                 'desc' => 'A wireframe project created using PowerPoint, showcasing layout designs and UI/UX concepts for web and application interfaces. It demonstrates planning and visual structuring before development.',
-<<<<<<< HEAD
+
                                 'tech' => ['PowerPoint'],
                                 'gradient' => 'from-purple-500 to-pink-400',
                                 'image' => 'ezz.png',
@@ -237,7 +237,6 @@
                                 'desc' => 'A VB.NET application that automates grade computation for students. It calculates grades based on input scores, handles weighted averages, and displays results accurately.',
                                 'tech' => ['VB.Net'],
                                 'gradient' => 'from-blue-500 to-cyan-400',
->>>>>>> 1a61c86f7e4728aa717e1bee7c297c828d100f5e
                                 'image' => 'ezz.png',
                             ],
                         ];

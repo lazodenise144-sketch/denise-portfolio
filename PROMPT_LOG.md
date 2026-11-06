@@ -1,4 +1,4 @@
-💙 Aesthetic Personal Portfolio AI Prompt
+# 💙 Aesthetic Personal Portfolio AI Prompt
 
 Create a modern, masculine, elegant, professional, and fully responsive personal portfolio website for a fourth-year BSIT student named Denise J. Lazo.
 
@@ -95,35 +95,39 @@ Use clean icons and subtle blue hover effects.
 
 4. Projects
 
-Create a professional project showcase using a dark blue card-based layout.
+Create a professional project showcase using a dark blue card-based layout. Ensure the project title, description, and technology tags display cleanly *below* the image. 
 
-Each project card should include:
+Include the following 5 specific projects:
+- **Permanent Record** (Tag: VB.Net | Image: per.png) - A simple VB.NET application designed to help users manage and store records with basic CRUD operations.
+- **Wireframe** (Tag: Powerpoint | Image: pwer.png) - A wireframe project showcasing layout designs and UI/UX concepts.
+- **Grade Computation System** (Tag: VB.Net | Image: ezz.png) - A VB.NET application that automates grade computation based on input scores and weighted averages.
+- **QR Code Event Attendance System** (Tag: Web App | Image: qr1.jpeg) - A modern QR Code Event Attendance System for DCCP-Bangued.
+- **Student Grade Tracker** (Tag: Android App | Image: flutterapp.jpeg) - A mobile application designed to help students track their academic progress.
 
-- Project image
-- Project title
-- Short description
-- Technologies used
-- View Project button
+5. Certifications
 
-Use placeholder projects if actual projects are not provided.
+Create a dedicated achievements section to showcase professional development and webinars. Include:
+- **Online Safety Through Netiquette**
+  - Issuer: Department of Information and Communications Technology (DICT) Region II
+  - Date: July 23, 2026
+  - Description: "Awarded in recognition of the participant's commitment to promoting responsible, ethical and secure use of technologies."
+  - Image Placeholder: cert.jpeg
 
-Add smooth hover animations where the project card slightly lifts or glows blue.
-
-5. Education
+6. Education
 
 Create a modern vertical timeline showing Denise's educational background.
 
 Include:
-
-Data Center College of the Philippines
-
-Bachelor of Science in Information Technology
-
-Fourth Year Student
+- **Data Center College of the Philippines**
+  - Bachelor of Science in Information Technology
+  - Fourth Year Student · Ubbog, Lipcan, Bangued, Abra
+- **Dugong National High School**
+  - General Academic Strand (GAS)
+  - Senior High School
 
 Use a blue timeline with glowing connection points.
 
-6. Hobbies & Interests
+7. Hobbies & Interests
 
 Create a visually appealing section using dark blue cards for:
 
@@ -135,7 +139,7 @@ Create a visually appealing section using dark blue cards for:
 
 Each card should have a simple icon, short description, and subtle hover animation.
 
-7. Personal Goals
+8. Personal Goals
 
 Create a professional section describing Denise's goals.
 
@@ -151,7 +155,7 @@ Include goals such as:
 
 Present the goals using clean cards or a modern checklist design.
 
-8. Contact Me
+9. Contact Me
 
 Create a simple and professional contact section.
 
@@ -166,7 +170,7 @@ Add social media icons as placeholders.
 
 Use a dark navy background with blue glowing accents.
 
-9. Footer
+10. Footer
 
 Create a clean dark footer.
 
